@@ -23,5 +23,3 @@ I was created in 2018.
 _You can change the text if you need but print exactly two lines._
 
 _Next, we will use Aid and 2018 as your assistant's name and its birth year, but you can change it if you want._
-
-***
