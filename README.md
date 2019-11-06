@@ -1,6 +1,25 @@
 # Simple Chatty Bot
 
-**Stage 3: (ongoing)**
+
+**Stage 4: (ongoing)**
+
+_At this stage, you will improve your simple bot so that it can give you a test and check your answers. The test should be about programming. Your bot has to continue to ask the test until you answer correctly._
+
+_Your bot can ask anything you want, but there are two rules for your output:_
+
+* _the line with the test should end with the question mark character;_
+* _an option starts with a digit followed by the dot (1., 2., 3., 4.)_
+
+_If a user enters an incorrect answer, the bot may print a message:_
+```
+Please, try again.
+```
+_The program must end with the **Congratulations, have a nice day!** message._
+
+_Use the provided template to simplify your work. You can change the text if you want. Please note that we use methods to make it easy to understand the program and add to or edit later._
+***
+
+**Stage 3:**
 
 _At this stage, you will program the bot to count from 0 to any positive number you entered._
 
