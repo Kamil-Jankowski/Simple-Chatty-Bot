@@ -1,7 +1,7 @@
-# Simple Chatty Bot
+# Simple Chatty Bot - project finished
 
 
-**Stage 4: (ongoing)**
+**Stage 4:**
 
 _At this stage, you will improve your simple bot so that it can give you a test and check your answers. The test should be about programming. Your bot has to continue to ask the test until you answer correctly._
 
